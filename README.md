@@ -2,7 +2,7 @@
  
 # Alejandro Guevara de luna
 
-## VLAN
+## Definición VLAN
 Las redes VLAN (Virtual Local Area Networks) son redes lógicas que se crean en una red física para segmentar y aislar el tráfico de datos en grupos específicos de dispositivos, independientemente de su ubicación física en la red. Estas redes lógicas se utilizan para mejorar la administración, la seguridad y la eficiencia de las redes, al permitir que los dispositivos se agrupen lógicamente en función de criterios como departamentos, funciones o proyectos, en lugar de su ubicación física en la infraestructura de red.
 
 
@@ -69,5 +69,5 @@ Las redes VLAN (Virtual Local Area Networks) son redes lógicas que se crean en 
     
     5.8 Seguridad en redes de VoIP 
 
-*** Se utilizo la ayuda de IA's para la ayuda de la materia de Redes Emergentes ***
-*** OpenAI. (2023). ChatGPT. Chat.openai.com. https://chat.openai.com *** 
+***Se utilizo la ayuda de IA's para la ayuda de la materia de Redes Emergentes***
+***OpenAI. (2023). ChatGPT. Chat.openai.com. https://chat.openai.com*** 
